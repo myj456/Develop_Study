@@ -1,10 +1,19 @@
-# SpringBoot_Study
-Spring Boot 공부 내용의 실전 코드입니다.
+# Develop Study
+개발 공부 내용 정리 Repository 입니다.
 
 <br>
 <br>
 
 ## 강의 목록
+### Java
+25.12.23
+- ### 자바 기초 프로그래밍 강좌 - 동빈나 <br>
+  - branch: Java_Basics
+  - <a> href="https://www.youtube.com/watch?v=wjLwmWyItWI&list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R">
+     인강 사이트
+    </a>
+
+### Spring boot
 25.08.24
 - ### 1시간만에 끝내는 spring boot rest api 서비스 개발 <br>
   - 브랜치: Springboot_RestAPI_Peek
